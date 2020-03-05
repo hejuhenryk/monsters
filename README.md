@@ -1,3 +1,11 @@
+# Monster small app 
+
+Small app where i used svg created by Kidaha. https://kidaha.com/ 
+
+## Once again, i practise React, TypeScript stiled with 'styled components' 
+## In addition React Routs 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
