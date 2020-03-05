@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/monsters/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/monsters/static/js/main.84598cb3.chunk.js",
+    "main.js.map": "/monsters/static/js/main.84598cb3.chunk.js.map",
+    "runtime-main.js": "/monsters/static/js/runtime-main.ff1887e7.js",
+    "runtime-main.js.map": "/monsters/static/js/runtime-main.ff1887e7.js.map",
+    "static/js/2.102280e5.chunk.js": "/monsters/static/js/2.102280e5.chunk.js",
+    "static/js/2.102280e5.chunk.js.map": "/monsters/static/js/2.102280e5.chunk.js.map",
+    "index.html": "/monsters/index.html",
+    "precache-manifest.606738fdd11a7d40bb27fa4a6e7569d7.js": "/monsters/precache-manifest.606738fdd11a7d40bb27fa4a6e7569d7.js",
+    "service-worker.js": "/monsters/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/monsters/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.102280e5.chunk.js.LICENSE.txt": "/monsters/static/js/2.102280e5.chunk.js.LICENSE.txt",
+    "static/media/kidaha-01.28b1df87.svg": "/monsters/static/media/kidaha-01.28b1df87.svg",
+    "static/media/kidaha-02.719f3e30.svg": "/monsters/static/media/kidaha-02.719f3e30.svg",
+    "static/media/kidaha-03.51977f3c.svg": "/monsters/static/media/kidaha-03.51977f3c.svg",
+    "static/media/kidaha-04.aa7a524a.svg": "/monsters/static/media/kidaha-04.aa7a524a.svg",
+    "static/media/kidaha-05.7f120c30.svg": "/monsters/static/media/kidaha-05.7f120c30.svg",
+    "static/media/kidaha-06.ed9e2817.svg": "/monsters/static/media/kidaha-06.ed9e2817.svg",
+    "static/media/kidaha-07.0c5e666e.svg": "/monsters/static/media/kidaha-07.0c5e666e.svg",
+    "static/media/kidaha-08.7f01145b.svg": "/monsters/static/media/kidaha-08.7f01145b.svg",
+    "static/media/kidaha-09.c7d2c18a.svg": "/monsters/static/media/kidaha-09.c7d2c18a.svg",
+    "static/media/kidaha-10.1ba093e0.svg": "/monsters/static/media/kidaha-10.1ba093e0.svg",
+    "static/media/kidaha-11.044de6ee.svg": "/monsters/static/media/kidaha-11.044de6ee.svg",
+    "static/media/kidaha-12.f9066f87.svg": "/monsters/static/media/kidaha-12.f9066f87.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff1887e7.js",
+    "static/js/2.102280e5.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.84598cb3.chunk.js"
+  ]
+}
